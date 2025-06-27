@@ -1,0 +1,29 @@
+p {
+  font-family: sans-serif;
+  font-size: 12pt;
+  color: #ffffff;
+}
+
+.product-card {
+  background-color: #25607252;
+  padding: 12px;
+  margin: 12px 0;
+}
+
+.add-to-cart {
+  background-color: #ac2020;
+  color: rgb(255, 255, 255);
+  padding: 10px 16px;
+}
+
+.description {
+  color: #333333;
+  line-height: 1.5;
+  margin-bottom: 10px;
+}
+
+.add-to-cart:hover {
+  background-color: #922015; /* a darker red for hover effect */
+  cursor: pointer;
+}
+
